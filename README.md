@@ -66,4 +66,4 @@ Program Studi Teknik Informatika – Universitas Lampung
 
 Berikut tampilan hasil perintah `git log --graph --oneline` yang menunjukkan riwayat commit dan merge pada proyek ini:
 
-![Git Log Screenshot](images/ScreenshotGitLog.png)
+![Git Log Screenshot](https://github.com/SaskiyaDwiSeptiani/Portofolio-Praktikum-Pemograman-Website-A/blob/efa377f3efbc1ef96ff8d229c37785c02546fb17/ScreenshotGitLog.png)
